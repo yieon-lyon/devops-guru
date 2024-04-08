@@ -1,6 +1,7 @@
 # AWS DevOps Guru 시작하기
 
 ### AWS DevOps Guru를 활성화하여 잠재적인 운영 문제가 더 큰 문제로 커지기 전에 이를 알려줄 수 있는 환경을 조성하여 데이터베이스 모니터링을 더욱 견고히 한다.
+![](https://velog.velcdn.com/images/yieon/post/cf63c070-52c3-4cb2-a60c-b7879e2fcccf/image.png)
 
 #### Step1. AWS DevOps Guru 활성화
 
